@@ -3,8 +3,8 @@
 ## Objectives
 
 - Review Project 2 requirements
-- Come up with features (models) that are critical to the project
-- Create basic [ERDs](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) for your project
+- Ideate project ideas
+- Break down possible features
 - Create wireframes (paper prototyping, sketch, illustrator, graph paper, balsamiq, etc) for your project
 - Obtain Instructor approval for your project
 
@@ -24,9 +24,19 @@ Create the idea for your project following the steps covered in our UX Crashcour
 
 Since we're just getting your MVC toolbelt set up, your project isn't required to be as revolutionary as what we brainstormed in the UX Crashcourse - but, you should still follow these basic steps to ensure a quality result.
 
+## Features
+
+In the coming week, we'll go indepth with ways to define models - but for today, start by writing down a list of "features" you'd want your app to perform. These can be things like:
+
+1. Post a collection of song data into a page
+2. Sort an list of stock listing by price
+3. Accept a query in a form that makes an API request
+
+Having a list of these basic functions will help you in the wireframing proccess, and in your project planning in general.
+
 ## Wireframing
 
-Wireframes are low-fidelity sketches of how your app will look and operate - it's the client-facing version of an ERD:
+Wireframes are low-fidelity sketches of how your app will look and operate:
 
 ![Wireframe Example](http://anythingnet.com.au/wp-content/uploads/2015/05/app-development-wireframing-flowchart.jpg)
 
