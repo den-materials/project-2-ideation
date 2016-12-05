@@ -24,18 +24,6 @@ Create the idea for your project following the steps covered in our UX Crashcour
 
 Since we're just getting your MVC toolbelt set up, your project isn't required to be as revolutionary as what we brainstormed in the UX Crashcourse - but, you should still follow these basic steps to ensure a quality result.
 
-## Models
-
-Models directly manages the data, logic, and rules of the application - they're what takes your data, and organizes it into something useable. Once you have a rough idea of what you want your project to do, you can start singling out bits of fuctionality that might constitute a model. We'll want to make a list of these, to better understand what we need to create.
-
-## ERDs
-
-ERD stands for [Entity–relationship Diagram](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) - basically, a high-level map of your app. This should include a linking relationship of the models in your app, like so:
-
-![Basic ERD](http://www.conceptdraw.com/solution-park/resource/images/solutions/entity-relationship-diagram-(erd)/Diagramming-Crow's-Foot-ERD-Sample60.png)
-
-This map can be extended to include folder structure, file names, and a rough description of what each file should do. This will be helpful in keeping your idea in a "box", and prevent (scope-creep)[https://en.wikipedia.org/wiki/Scope_creep].
-
 ## Wireframing
 
 Wireframes are low-fidelity sketches of how your app will look and operate - it's the client-facing version of an ERD:
