@@ -4,7 +4,7 @@
 
 - Review Project 2 requirements
 - Come up with features (models) that are critical to the project
-- Create basic (ERDs)[https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model] for your project
+- Create basic [ERDs](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) for your project
 - Create wireframes (paper prototyping, sketch, illustrator, graph paper, balsamiq, etc) for your project
 - Obtain Instructor approval for your project
 
