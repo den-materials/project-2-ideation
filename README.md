@@ -6,7 +6,6 @@
 - Ideate project ideas
 - Break down possible features
 - Create wireframes (paper prototyping, sketch, illustrator, graph paper, balsamiq, etc) for your project
-- Obtain Instructor approval for your project
 
 ## Intro
 
@@ -47,10 +46,4 @@ There's a variety of tools you can use to accomplish this:
 - [Balsamiq](https://balsamiq.com/)
 
 BONUS: If you go the digital route and create someting in Sketch or Adobe, you can prototype even more effectively with [InVision](https://www.invisionapp.com/) and [CRAFT](https://www.invisionapp.com/craft).
-
-## Approval
-
-Once you have the above steps taken care of, your instructors will be available to approve your project! 
-
-
 
