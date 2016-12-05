@@ -30,7 +30,7 @@ Models directly manages the data, logic, and rules of the application - they're 
 
 ## ERDs
 
-ERD stands for (Entity–relationship model)[https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model] - basically, a high-level map of your app. This should include a linking relationship of the models in your app, like so:
+ERD stands for [Entity–relationship Diagram](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) - basically, a high-level map of your app. This should include a linking relationship of the models in your app, like so:
 
 ![Basic ERD](http://www.conceptdraw.com/solution-park/resource/images/solutions/entity-relationship-diagram-(erd)/Diagramming-Crow's-Foot-ERD-Sample60.png)
 
